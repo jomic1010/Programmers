@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DC4E06F224EBE6E20067CABD /* KNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC4E06F124EBE6E20067CABD /* KNumber.swift */; };
+		DC60840824F28AD30064E027 /* GymSuit.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC60840724F28AD30064E027 /* GymSuit.swift */; };
 		DCF7307224CA1C1F000A92F5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCF7307124CA1C1F000A92F5 /* AppDelegate.swift */; };
 		DCF7307424CA1C1F000A92F5 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCF7307324CA1C1F000A92F5 /* SceneDelegate.swift */; };
 		DCF7307624CA1C1F000A92F5 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCF7307524CA1C1F000A92F5 /* ViewController.swift */; };
@@ -18,6 +20,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		DC4E06F124EBE6E20067CABD /* KNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KNumber.swift; sourceTree = "<group>"; };
+		DC60840724F28AD30064E027 /* GymSuit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GymSuit.swift; sourceTree = "<group>"; };
 		DCF7306E24CA1C1F000A92F5 /* Programmers.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Programmers.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DCF7307124CA1C1F000A92F5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DCF7307324CA1C1F000A92F5 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -77,6 +81,8 @@
 			children = (
 				DCF7308524CA1C33000A92F5 /* Crane Game.swift */,
 				DCF7308724CA1C5B000A92F5 /* Mock Exam.swift */,
+				DC4E06F124EBE6E20067CABD /* KNumber.swift */,
+				DC60840724F28AD30064E027 /* GymSuit.swift */,
 			);
 			path = source;
 			sourceTree = "<group>";
@@ -153,7 +159,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				DCF7307624CA1C1F000A92F5 /* ViewController.swift in Sources */,
+				DC60840824F28AD30064E027 /* GymSuit.swift in Sources */,
 				DCF7308824CA1C5B000A92F5 /* Mock Exam.swift in Sources */,
+				DC4E06F224EBE6E20067CABD /* KNumber.swift in Sources */,
 				DCF7307224CA1C1F000A92F5 /* AppDelegate.swift in Sources */,
 				DCF7308624CA1C33000A92F5 /* Crane Game.swift in Sources */,
 				DCF7307424CA1C1F000A92F5 /* SceneDelegate.swift in Sources */,
