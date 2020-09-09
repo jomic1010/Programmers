@@ -7,8 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DC39DB792508B46300B498C8 /* 2016.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC39DB782508B46300B498C8 /* 2016.swift */; };
 		DC4E06F224EBE6E20067CABD /* KNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC4E06F124EBE6E20067CABD /* KNumber.swift */; };
 		DC60840824F28AD30064E027 /* GymSuit.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC60840724F28AD30064E027 /* GymSuit.swift */; };
+		DC7D2F442508BEDA00236870 /* getMiddleChar.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC7D2F432508BEDA00236870 /* getMiddleChar.swift */; };
+		DC7D2F462508C4E600236870 /* divisionArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC7D2F452508C4E600236870 /* divisionArray.swift */; };
+		DC7D2F482508C5DA00236870 /* twoNumAdd.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC7D2F472508C5DA00236870 /* twoNumAdd.swift */; };
 		DCF7307224CA1C1F000A92F5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCF7307124CA1C1F000A92F5 /* AppDelegate.swift */; };
 		DCF7307424CA1C1F000A92F5 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCF7307324CA1C1F000A92F5 /* SceneDelegate.swift */; };
 		DCF7307624CA1C1F000A92F5 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCF7307524CA1C1F000A92F5 /* ViewController.swift */; };
@@ -20,8 +24,12 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		DC39DB782508B46300B498C8 /* 2016.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2016.swift; sourceTree = "<group>"; };
 		DC4E06F124EBE6E20067CABD /* KNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KNumber.swift; sourceTree = "<group>"; };
 		DC60840724F28AD30064E027 /* GymSuit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GymSuit.swift; sourceTree = "<group>"; };
+		DC7D2F432508BEDA00236870 /* getMiddleChar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = getMiddleChar.swift; sourceTree = "<group>"; };
+		DC7D2F452508C4E600236870 /* divisionArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = divisionArray.swift; sourceTree = "<group>"; };
+		DC7D2F472508C5DA00236870 /* twoNumAdd.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = twoNumAdd.swift; sourceTree = "<group>"; };
 		DCF7306E24CA1C1F000A92F5 /* Programmers.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Programmers.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DCF7307124CA1C1F000A92F5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DCF7307324CA1C1F000A92F5 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -83,6 +91,10 @@
 				DCF7308724CA1C5B000A92F5 /* Mock Exam.swift */,
 				DC4E06F124EBE6E20067CABD /* KNumber.swift */,
 				DC60840724F28AD30064E027 /* GymSuit.swift */,
+				DC39DB782508B46300B498C8 /* 2016.swift */,
+				DC7D2F432508BEDA00236870 /* getMiddleChar.swift */,
+				DC7D2F452508C4E600236870 /* divisionArray.swift */,
+				DC7D2F472508C5DA00236870 /* twoNumAdd.swift */,
 			);
 			path = source;
 			sourceTree = "<group>";
@@ -161,9 +173,13 @@
 				DCF7307624CA1C1F000A92F5 /* ViewController.swift in Sources */,
 				DC60840824F28AD30064E027 /* GymSuit.swift in Sources */,
 				DCF7308824CA1C5B000A92F5 /* Mock Exam.swift in Sources */,
+				DC7D2F482508C5DA00236870 /* twoNumAdd.swift in Sources */,
 				DC4E06F224EBE6E20067CABD /* KNumber.swift in Sources */,
+				DC7D2F462508C4E600236870 /* divisionArray.swift in Sources */,
 				DCF7307224CA1C1F000A92F5 /* AppDelegate.swift in Sources */,
 				DCF7308624CA1C33000A92F5 /* Crane Game.swift in Sources */,
+				DC7D2F442508BEDA00236870 /* getMiddleChar.swift in Sources */,
+				DC39DB792508B46300B498C8 /* 2016.swift in Sources */,
 				DCF7307424CA1C1F000A92F5 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
